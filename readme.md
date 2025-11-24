@@ -15,7 +15,7 @@ This project demonstrates clean architecture, modular backend design, reusable U
 
 Watch the full demonstration of the TodoApp in action:
 
-[![TODO App Demo](https://img.youtube.com/vi/Dmnb5CmubxkE/maxresdefault.jpg)](https://youtu.be/Dmnb5CmubxkE)
+[![TODO App Demo](https://img.youtube.com/vi/Dmnb5Cmubxk/maxresdefault.jpg)](https://youtu.be/Dmnb5Cmubxk)
 
 **[▶ Watch on YouTube](https://www.youtube.com/watch?v=Dmnb5Cmubxk)**
 
