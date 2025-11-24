@@ -9,6 +9,18 @@ A complete full-stack TODO application built using a modern developer stack:
 
 This project demonstrates clean architecture, modular backend design, reusable UI components, and proper API integration using React Query.
 
+---
+
+## 🎥 Demo Video
+
+Watch the full demonstration of the TodoApp in action:
+
+[![TODO App Demo](https://img.youtube.com/vi/Dmnb5CmubxkE/maxresdefault.jpg)](https://youtu.be/Dmnb5CmubxkE)
+
+**[▶️ Watch on YouTube](https://www.youtube.com/watch?v=Dmnb5Cmubxk)**
+
+---
+
 ## Directory Structure
 
 ```
